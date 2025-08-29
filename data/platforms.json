@@ -47,5 +47,11 @@
         "balance": 7.75,
         "interest_rate": 0.0,
         "history": []
+    },
+    {
+        "name": "Ndovu",
+        "balance": 59.467,
+        "interest_rate": 0.0,
+        "history": []
     }
 ]
