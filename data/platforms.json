@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Ziidi",
+        "balance": 0.97,
+        "interest_rate": 0.0,
+        "history": []
+    },
+    {
+        "name": "M-Shwari",
+        "balance": 1.3699999999999999,
+        "interest_rate": 0.0,
+        "history": [
+            {
+                "type": "Withdrawal",
+                "amount": -1.01,
+                "balance": 1.3699999999999999,
+                "timestamp": "2025-08-29T13:51:08.208673"
+            }
+        ]
+    },
+    {
+        "name": "KCB - Mpesa",
+        "balance": 0.31,
+        "interest_rate": 0.0,
+        "history": []
+    },
+    {
+        "name": "Mali",
+        "balance": 0.75,
+        "interest_rate": 0.0,
+        "history": []
+    },
+    {
+        "name": "OLD-Mutual",
+        "balance": 158.0,
+        "interest_rate": 0.0,
+        "history": []
+    },
+    {
+        "name": "Britam",
+        "balance": 108.0,
+        "interest_rate": 0.0,
+        "history": []
+    },
+    {
+        "name": "Loop",
+        "balance": 7.75,
+        "interest_rate": 0.0,
+        "history": []
+    }
+]
