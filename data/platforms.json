@@ -1,9 +1,22 @@
 [
     {
         "name": "Ziidi",
-        "balance": 0.97,
+        "balance": 1000.9700000000003,
         "interest_rate": 0.0,
-        "history": []
+        "history": [
+            {
+                "type": "Deposit",
+                "amount": 5000.01,
+                "balance": 5000.9800000000005,
+                "timestamp": "2025-09-17T10:55:43.816135"
+            },
+            {
+                "type": "Withdrawal",
+                "amount": -4000.01,
+                "balance": 1000.9700000000003,
+                "timestamp": "2025-09-17T10:56:38.717842"
+            }
+        ]
     },
     {
         "name": "M-Shwari",
@@ -51,6 +64,12 @@
     {
         "name": "Ndovu",
         "balance": 59.467,
+        "interest_rate": 0.0,
+        "history": []
+    },
+    {
+        "name": "Branch",
+        "balance": 500.0,
         "interest_rate": 0.0,
         "history": []
     }
